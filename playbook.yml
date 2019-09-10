@@ -1,0 +1,14 @@
+---
+- hosts: webservers
+  user: root
+  tasks:
+   - name: Install Apache 2
+     apt:
+       name: apache2 
+       state: present
+     environment:
+      RUNLEVEL: 1
+   - name: Copy angular project
+     copy:
+      src: ./dist/angular7-docker/
+      dest: /var/www/html/
