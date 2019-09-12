@@ -1,5 +1,5 @@
-# INTEGRANTES
-
+# PROJECT DEVOPS
+## INTEGRANTES
 ```
 Miguel Angel Quispe Santos
 Juan Montaño Mamani
@@ -7,8 +7,6 @@ Willy Kelvis Sánchez Rojas
 Saul Mamani M.
 Yerko Manzel Peralta
 ```
-
-# PROJECT DEVOPS
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.0-rc.0.
 
