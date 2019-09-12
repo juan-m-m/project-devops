@@ -1,7 +1,8 @@
 # INTEGRANTES
 
-```Juan Montaño Mamani
+```
 Miguel Angel Quispe Santos
+Juan Montaño Mamani
 Willy Kelvis Sánchez Rojas
 Saul Mamani M.
 Yerko Manzel Peralta
