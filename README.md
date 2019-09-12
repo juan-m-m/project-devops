@@ -1,10 +1,11 @@
 # INTEGRANTES
 
--Juan Montaño Mamani
--Miguel Angel Quispe Santos
--Willy Kelvis Sánchez Rojas
--Saul Mamani M.
--Yerko Manzel Peralta
+```Juan Montaño Mamani
+Miguel Angel Quispe Santos
+Willy Kelvis Sánchez Rojas
+Saul Mamani M.
+Yerko Manzel Peralta
+```
 
 # PROJECT DEVOPS
 
