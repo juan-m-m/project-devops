@@ -1,4 +1,4 @@
-#INTEGRANTES
+# INTEGRANTES
 
 -Juan Montaño Mamani
 -Miguel Angel Quispe Santos
